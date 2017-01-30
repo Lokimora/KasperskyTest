@@ -1,0 +1,4 @@
+C:\Projects\Kaspersky\KasperskyLib\bin\Debug\KasperskyLib.dll
+C:\Projects\Kaspersky\KasperskyLib\bin\Debug\KasperskyLib.pdb
+C:\Projects\Kaspersky\KasperskyLib\obj\Debug\KasperskyLib.dll
+C:\Projects\Kaspersky\KasperskyLib\obj\Debug\KasperskyLib.pdb

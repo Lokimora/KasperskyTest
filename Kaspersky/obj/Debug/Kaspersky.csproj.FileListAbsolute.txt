@@ -1,0 +1,8 @@
+C:\Projects\Kaspersky\Kaspersky\bin\Debug\Kaspersky.exe.config
+C:\Projects\Kaspersky\Kaspersky\bin\Debug\Kaspersky.exe
+C:\Projects\Kaspersky\Kaspersky\bin\Debug\Kaspersky.pdb
+C:\Projects\Kaspersky\Kaspersky\obj\Debug\Kaspersky.csprojResolveAssemblyReference.cache
+C:\Projects\Kaspersky\Kaspersky\obj\Debug\Kaspersky.exe
+C:\Projects\Kaspersky\Kaspersky\obj\Debug\Kaspersky.pdb
+C:\Projects\Kaspersky\Kaspersky\bin\Debug\KasperskyLib.dll
+C:\Projects\Kaspersky\Kaspersky\bin\Debug\KasperskyLib.pdb
